@@ -13,7 +13,7 @@ This is a basic project that takes video stream from OV7670 camera and displays 
 
 To build a video data stream, `OV7670_to_VGA_BRAM` uses on chip BRAM as video buffer and `OV7670_to_VGA_SRAM` uses SRAM to save on chip resources.
 
-`OV7670_to_VGA_SRAM` needs a on board SRAM of *at least 2Mbit*.
+`OV7670_to_VGA_SRAM` needs an on board SRAM of *at least 2Mbit*.
 
 ## Before you flash
 
